@@ -1,1 +1,1 @@
-A Git File
+In this project we learn to use the basic command of Git like add, commit, branch, etc. Also push and pull files.
