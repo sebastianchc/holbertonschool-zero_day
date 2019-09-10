@@ -1,0 +1,1 @@
+In this project we learn to open a virtual machine and create a new repository also somo git commands like
