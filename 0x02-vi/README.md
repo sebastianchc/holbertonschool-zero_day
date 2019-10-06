@@ -1,1 +1,1 @@
-A Vim File
+In this project we will learn to use Vi, a text editor.
