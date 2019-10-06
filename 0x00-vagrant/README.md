@@ -1,1 +1,1 @@
-a project that want show me a how use vagrant 
+In this project we will learn to use vagrant, which is a virtual machine and an operating system.
