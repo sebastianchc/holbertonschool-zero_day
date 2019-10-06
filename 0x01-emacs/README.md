@@ -1,1 +1,1 @@
-An emacs file
+In this project we will learn to use Emacs, a text editor.
