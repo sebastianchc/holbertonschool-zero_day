@@ -1,1 +1,2 @@
-In this project we learn to use the basic command of Git like add, commit, branch, etc. Also push and pull files.
+<h1>Git</h1>
+In this project we learn to use Git and GitHub.
