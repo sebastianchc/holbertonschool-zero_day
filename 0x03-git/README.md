@@ -34,7 +34,7 @@ What you should learn from this project:
 
 
 ### [5. Never push too much](./.gitignore)
-* File that specifies intentionally untracked files that Git should ignore.
+* File that specifies  untracked files that Git should ignore.
 
 ---
 
