@@ -3,7 +3,7 @@
 ## Description
 What you should learn from this project:
 
-* What is a Emacs
+* What is Emacs
 * Who is Richard Stallman
 * How to open and save files
 * What is a buffer and how to switch from one to the other
